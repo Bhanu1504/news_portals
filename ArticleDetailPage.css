@@ -1,0 +1,28 @@
+/* ArticleDetailPage.css */
+
+.article-detail {
+    background-color: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .article-detail img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
+  
+  .article-detail h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .article-detail p {
+    font-size: 1em;
+    color: #333;
+    line-height: 1.6;
+  }
+  
